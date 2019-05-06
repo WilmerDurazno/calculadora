@@ -18,6 +18,4 @@ function calculando(){
     var res=document.getElementById("valores").value
     //alert(eval(res))
     document.getElementById("valores").value=eval(res)
-
-
 }
